@@ -1,0 +1,30 @@
+body{
+    background-color: red;
+}
+
+.login_div{
+    background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+#player1_name,
+#player2_name{
+display: inline-block;
+margin-left: 20px;
+}
+
+#h1_1{
+	font-family: cursive;
+color: black;
+}
+
+#output {
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
